@@ -1,1 +1,1 @@
-# rabbitmq-server-simple
+# czs-simple-list

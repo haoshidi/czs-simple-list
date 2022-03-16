@@ -15,7 +15,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="RabbitMQ-Consumer" options="-parameters" />
       <module name="RabbitMQ-Provider" options="-parameters" />
-      <module name="rabbitmq-server-demo" options="-parameters" />
+      <module name="czs-simple-list" options="-parameters" />
     </option>
   </component>
 </project>
